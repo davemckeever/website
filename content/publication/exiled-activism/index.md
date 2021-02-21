@@ -17,8 +17,8 @@ publication: '*Routledge*'
 publication_types:
 - "5"
 publishDate: "2017-01-01T00:00:00Z"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This book examines the relationship between exile and activism. Drawing on interviews with activists exiled to England following the military coup d’état in Egypt as an illustrative case, it considers whether exile presents any barrier to meaningful political participation.
+
 tags:
 title: Exiled Activism
 ---
